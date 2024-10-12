@@ -1,1 +1,10 @@
-
+gamer.com.tw:jianxianapp
+steamdb.info:jianxianapp
+toy-people.com:jianxianapp
+silkbook.com:jianxianapp
+cdn.anycast.eu.org:jianxianapp
+icook.hk:jianxianapp
+shopify.com:jianxianapp
+www.visa.com.tw:jianxianapp
+time.is:jianxianapp
+japan.com:jianxianapp
