@@ -1,8 +1,6 @@
-gamer.com.tw:443#jianxianapp
+malaysia.com:443#jianxianapp
 steamdb.info:443#jianxianapp
 toy-people.com:443#jianxianapp
-silkbook.com:443#jianxianapp
-cdn.anycast.eu.org:443#jianxianapp
 icook.hk:443#jianxianapp
 shopify.com:443#jianxianapp
 www.visa.com.tw:443#jianxianapp
